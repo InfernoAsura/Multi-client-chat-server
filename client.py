@@ -11,7 +11,8 @@ import threading
 import tkinter as tk
 from tkinter import scrolledtext, messagebox, filedialog
 
-HOST = '172.31.36.136'
+# put the ipv4 address of the wifi that the server is running on
+HOST = '###'
 PORT = 1234
 
 DARK_GREY = '#1E1E1E'
